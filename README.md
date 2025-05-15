@@ -125,7 +125,7 @@ docker run -d \
 
 ---
 
-## 🖥Acessando a aplicação
+## Acessando a aplicação
 
 Abra seu navegador e acesse:
 
