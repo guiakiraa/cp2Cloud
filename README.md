@@ -26,7 +26,7 @@ cd cp2Cloud
 
 ---
 
-## 🗄Subindo o container do MySQL
+## Subindo o container do MySQL
 
 Execute o comando abaixo para criar o container do banco de dados:
 
