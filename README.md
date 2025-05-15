@@ -1,14 +1,14 @@
 
-# 🐳 Projeto com Docker - RM556128
+# Checkpoint 2 - Cloud
 
 Este projeto utiliza containers Docker para orquestrar um ambiente completo com **MySQL**, **Backend em Python (FastAPI)** e **Frontend em Next.js**.
 
-## ✅ Pré-requisitos
+## Pré-requisitos
 
 - Docker instalado na máquina
 - Git (opcional, para clonar o repositório)
 
-## 🔧 Configuração Inicial
+## Configuração Inicial
 
 ### 1. Criar rede e volume Docker
 
@@ -26,7 +26,7 @@ cd cp2Cloud
 
 ---
 
-## 🗄️ Subindo o container do MySQL
+## 🗄Subindo o container do MySQL
 
 Execute o comando abaixo para criar o container do banco de dados:
 
@@ -76,7 +76,7 @@ exit
 
 ---
 
-## 🚀 Subindo o Backend (FastAPI)
+## Subindo o Backend (FastAPI)
 
 Navegue até a pasta do backend:
 
@@ -102,7 +102,7 @@ docker run -d \
 
 ---
 
-## 🌐 Subindo o Frontend (Next.js)
+## Subindo o Frontend (Next.js)
 
 Navegue até a pasta do frontend:
 
@@ -125,7 +125,7 @@ docker run -d \
 
 ---
 
-## 🖥️ Acessando a aplicação
+## 🖥Acessando a aplicação
 
 Abra seu navegador e acesse:
 
@@ -137,7 +137,7 @@ A aplicação estará disponível na porta 80.
 
 ---
 
-## 🧹 Parar e remover containers (opcional)
+## Parar e remover containers (opcional)
 
 Caso queira parar e remover os containers criados:
 
